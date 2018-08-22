@@ -15,4 +15,3 @@ deploy:
         branch: master
         condition: $TEST_DIR = remix-debugger
 cache: false
-
